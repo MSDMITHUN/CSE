@@ -1,8 +1,8 @@
-<h2 align="left">Hello WORLD!,I'm Mithun, a B.E Student👋;</h2>
+<h2 align="left">Hello WORLD!, I'm Mithun, a B.E Student👋;</h2>
 
 ###
 
-<h2 align="left">Currently I'm studying B.E-CSE 2nd year at R P SARATHY INSTITUTE OF TECHNOLOGY</h2>
+<h2 align="left">Currently I'm studying B.E-CSE 3rd year at R P SARATHY INSTITUTE OF TECHNOLOGY</h2>
 
 ###
 
